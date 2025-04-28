@@ -69,3 +69,7 @@ which give less importance to long-term patterns.
 ![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/Loss-Rnn.jpg)
 
 ![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/LSTM_and_GRU.jpg)
+
+> **Note:** During model training- output is recorded in finial_results.xlsx.
+
+
