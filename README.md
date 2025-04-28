@@ -1,5 +1,11 @@
 # DeepLearning_GenAI- Time Series Forecasting-  A Deep Learning Approach to JPMorgan Stock Prediction
 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat)](https://keras.io/)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+
 
 
 ![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/DeepLearning.jpg)
