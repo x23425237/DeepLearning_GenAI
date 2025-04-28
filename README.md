@@ -3,6 +3,8 @@
 
 
 ![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/DeepLearning.jpg)
+<img src="https://github.com/x23425237/DeepLearning_GenAI/blob/main/formula_lstm.jpg?raw=true" alt="image alt" width="400"/>
+
 
 Time series forecasting has evolved since George Udall
 Yule first developed Autoregressive models(ARIMA) in 1920
@@ -66,3 +68,4 @@ which give less importance to long-term patterns.
 # Model Evaluation- Deep Learning 
 ![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/Loss-Rnn.jpg)
 
+![image alt](https://github.com/x23425237/DeepLearning_GenAI/blob/main/LSTM_and_GRU.jpg)
