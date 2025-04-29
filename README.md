@@ -30,7 +30,7 @@ JPMorgan Chase & Co, one of the world’s largest bank,
 American multinational financial service company that has
 its UK headquarters in London. The bank has a significant presence-
 ence and operations in Ireland, providing advisory services
-for investment banking, Assessment management, and fund
+for investment banking, Asset management, and fund
 Administration. For a stock analyst understanding stock perfor-
 Performance could provide insights into the company’s investment
 opportunities and its financial market position
